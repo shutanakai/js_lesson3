@@ -113,10 +113,10 @@ body {
 @media screen and (min-width: 768px) {
   .card {
     flex-direction: row;
-    width: calc(100% - 160px);
-    min-width: calc(100% - 160px);
+    width: calc(100% - 320px);
+    min-width: calc(100% - 320px);
     padding: 48px;
-    margin: 0 80px;
+    margin: 0 160px;
   }
 }
 
